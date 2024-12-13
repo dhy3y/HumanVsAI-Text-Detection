@@ -1,1 +1,1 @@
-# RoBERTa-MGT-Detection
+# HumanVsAI-Text-Detection
